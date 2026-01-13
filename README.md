@@ -1,2 +1,2 @@
-# boxd-x
+# BOXD-X
 AETHERIUM-X repository one
